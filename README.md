@@ -72,3 +72,7 @@ utilização de ORM com bibliotecas que executam o SQL de maneira simples
 + O teste realizado tem o objetivo de verificar o request post para que todos os campos sejam preenchidos
 e não ocorra erros durante a execução do SQL INSERT ou insira valores nulos no Banco de Dados
 
++ É realizada uma validação de CPF com toda lógica construida apenas com Javascript 
+sem bibliotecas ou requisição em base de dados uma forma simples e rapida para uma 
+verificação de baixo nivel em pequenos projetos
+
