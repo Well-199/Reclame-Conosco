@@ -5,12 +5,12 @@ Reclame conosco é o nome dado a aplicação Nodejs que tem por objetivo coletar
 ### Antes de Rodar o projeto
 
 + Windows
-1 - npm install
-2 - Copie e cole no navegador https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
-3 - Baixe a opção  Redis-x64-3.2.100.zip e extrai na area de trabalho
-4 - execute com duplo clique o arquivo redis-server
-5 - Crie uma conta em https://developer.mapquest.com/ (é gratuito)
-6 - Copie a sua chave Key e cole no arquivo .env em API_KEY=
++ npm install
++ Copie e cole no navegador https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
++ Baixe a opção  Redis-x64-3.2.100.zip e extrai na area de trabalho
++ execute com duplo clique o arquivo redis-server
++ Crie uma conta em https://developer.mapquest.com/ (é gratuito)
++ Copie a sua chave Key e cole no arquivo .env em API_KEY=
 
 + Banco de dados
 
@@ -24,7 +24,7 @@ Reclame conosco é o nome dado a aplicação Nodejs que tem por objetivo coletar
 
 + Com banco de dados iniciado agora sim!!!
 
-5 - npm start
++ npm start
 
 + Se der erro use yarn install
 
