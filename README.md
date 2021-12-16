@@ -28,7 +28,7 @@ Reclame conosco é o nome dado a aplicação Nodejs que tem por objetivo coletar
 
 + Se der erro use yarn install
 
-### Modelo de objeto esperado no Body/Request
+### Modelo de objeto esperado no body/request | copie e cole no Postman para testar
 ```
 {
   "latitude": "-23.5617836",
