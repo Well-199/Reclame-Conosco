@@ -1,6 +1,6 @@
 # Reclame-Conosco
 
-Reclame conosco é o nome dado a aplicação Nodejs que tem por objetivo coletar denúncias atravé de uma requisição POST
+Reclame conosco é o nome dado a aplicação Nodejs que tem por objetivo coletar denúncias através de uma requisição POST
 
 ### Antes de Rodar o projeto
 
