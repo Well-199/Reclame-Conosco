@@ -3,13 +3,6 @@ const server = require('../server')
 
 describe('Test My server', () => {
 
-    // it('should get main route', async () => {
-    //     const res = await request(server)
-    //     .get('/v1/denuncias')
-        
-    //     expect(res.body).toHaveProperty('json')
-    // })
-
     it('should post main route', async () => {
         const res = await request(server)
         .post('/v1/denuncias')
