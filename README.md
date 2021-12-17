@@ -28,6 +28,8 @@ Reclame conosco é o nome dado a aplicação Nodejs que tem por objetivo coletar
 
 + Se der erro use yarn install
 
++ Para executar os teste abra o arquivo api.test.js em tests verefique o campo que dejesa testar execute no cmd npm test
+
 ### Modelo de objeto esperado no body/request | copie e cole no Postman para testar
 ```
 {
